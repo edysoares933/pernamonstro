@@ -3,12 +3,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/021239.jpg" group-title="o renascimento de Freeza 2015",
+http://samuraihd.com.br:80/movie/natanael/nata2566/28563.mp4
+
 #EXTINF:1 tvg-logo="" group-title="filmes: dragon ball", dragon ball 2019
 http://samuraihd.com.br:80/movie/natanael/nata2566/28561.mp4
 
 #EXTINF:1 tvg-logo="file:///storage/emulated/0/Download/unnamed%20(5).jpg" group-title="filmes: dragon ball", dragon ball super Broly
 https://ns567958.ip-51-79-99.net/Uploads/Animes/D/dragon-ball-super-dublado/filme-1-broly.mp4
-
 
 
 #EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/box-dvd-the-walking-dead-2-temporada-completa-seminovo-D_NQ_NP_789136-MLB27106803905_032018-F.webp" group-title="the walking dead",1TE01
