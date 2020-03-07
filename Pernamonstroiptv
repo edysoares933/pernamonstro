@@ -55,6 +55,10 @@ http://samuraihd.com.br:25461/movie/natanael/nata2566/28586.mp4
 #EXTINF:-1 tvg-logo="1"  group-title="filme", GANTZ o 2010
 http://samuraihd.com.br:25461/movie/natanael/nata2566/27605.mp4
 
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE01
+http://samuraihd.com.br:80/series/natanael/nata2566/37334.mp4
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE03
+http://samuraihd.com.br:80/series/natanael/nata2566/37335.mp4
 #EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE04
 http://samuraihd.com.br:80/series/natanael/nata2566/37336.mp4
 #EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE05
