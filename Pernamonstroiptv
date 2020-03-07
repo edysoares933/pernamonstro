@@ -55,8 +55,18 @@ http://samuraihd.com.br:25461/movie/natanael/nata2566/28586.mp4
 #EXTINF:-1 tvg-logo="1"  group-title="filme", GANTZ o 2010
 http://samuraihd.com.br:25461/movie/natanael/nata2566/27605.mp4
 
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE04
+http://samuraihd.com.br:80/series/natanael/nata2566/37336.mp4
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE05
+http://samuraihd.com.br:80/series/natanael/nata2566/37337.mp4
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE06
+http://samuraihd.com.br:80/series/natanael/nata2566/37338.mp4
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE07
+http://samuraihd.com.br:80/series/natanael/nata2566/37339.mp4
+#EXTINF:0 tvg-logo="file:///storage/emulated/0/Download/images%20(2).jpeg" group-title="THE WITCHER", 1TE08
+http://samuraihd.com.br:80/series/natanael/nata2566/37340.mp4
 
-
+ 
 #EXTINF:-1 tvg-logo="file:///storage/emulated/0/Download/download%20(1).jpeg" group-title="Game of thrones", S01E01
 http://samurai.morpheus.feralhosting.com/Game.Of.Thrones/S01/S01E01.mp4
 
@@ -1226,37 +1236,38 @@ https://f000.backblazeb2.com/file/filmetube/Abomin%C3%A1vell.2020.1080p.mp4
 #EXTINF:-1 tvg-logo="https://www.filme.tube/uploads/video_thumb/542.jpg" group-title="lançamento", Influência
 https://f000.backblazeb2.com/file/filmetube/Influ%C3%AAncia.2019.720p.mp4
 O que outras pessoas estão dizendo
-O que outras pessoas estão dizendo#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/5f30a0f26eadcf0a8539c3387d71b2f9.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E01
+O que outras pessoas estão dizendo#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/5f30a0f26eadcf0a8539c3387d71b2f9.jpg" group-title="LÚCIFER", Lucifer S01 E01
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E01.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/10fb73765f5e35ff1d5ed2c6c92c7e97.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E02
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/10fb73765f5e35ff1d5ed2c6c92c7e97.jpg" group-title="LÚCIFER", Lucifer S01 E02
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E02.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/98fada28780cb7bed36ea1e2909b2ae9.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E03
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/98fada28780cb7bed36ea1e2909b2ae9.jpg" group-title="LÚCIFER", Lucifer S01 E03
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E03.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/aee0a097d262dbb86e9d759f6ed00735.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E04
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/aee0a097d262dbb86e9d759f6ed00735.jpg" group-title="LÚCIFER", Lucifer S01 E04
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E04.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/58dea0acaa64cfa23f33e3324a08ab93.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E05
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/58dea0acaa64cfa23f33e3324a08ab93.jpg" group-title="LÚCIFER", Lucifer S01 E05
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E05.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/6147f0ac05ed0417b3d8c6b01a0ccc8c.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E06
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/6147f0ac05ed0417b3d8c6b01a0ccc8c.jpg" group-title="LÚCIFER", Lucifer S01 E06
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E06.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/f87c2ba7b9362f239186ba80b507b287.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E07
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/f87c2ba7b9362f239186ba80b507b287.jpg" group-title="LÚCIFER", Lucifer S01 E09
+ Lucifer S01 E07
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E07.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/ba6e8e1501d210c1f0ce60eb8d86c397.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E08
-https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E08.720p.mp4
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/ba6e8e1501d210c1f0ce60eb8d86c397.jpg" group-title="LÚCIFER", Lucifer S01 E08
+https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E08.720p.mp4Lucifer
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/edec472486547f5518af30593ef5f67d.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E09
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/edec472486547f5518af30593ef5f67d.jpg" group-title="LÚCIFER", Lucifer S01 E09
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E09.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/4ff6ade0903140af974626eda85cfbda.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E10
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/4ff6ade0903140af974626eda85cfbda.jpg" group-title="LÚCIFER", Lucifer S01 E10
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E10.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/88bbb91faf20a0642874a2f70e60f274.jpg" group-title="LÚCIFER", (OFFLINE) Lucifer S01 E11
+#EXTINF:-1 tvg-logo="http://ntvplay.top:80/images/88bbb91faf20a0642874a2f70e60f274.jpg" group-title="LÚCIFER", Lucifer S01 E11
 https://f000.backblazeb2.com/file/seriestube/Lucifer/1+temporada/Lucifer.S01E11.720p.mp4
 
 O que outras pessoas estão dizendo
