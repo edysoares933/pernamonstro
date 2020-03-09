@@ -52,8 +52,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8?Arlen
 
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="Sem Categoria", SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
@@ -1461,4 +1460,83 @@ http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV MINAS
 http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS", REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Outros", TV 5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Outros", Senal Provincial
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Outros", 1-2-3 TV Alemanha
+http://123tv.cdn.ses-ps.com/index.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Outros", Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Outros", Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?Arlen
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TV SOL PB
+http://wse01.logicahost.com.br:1935/tvsol/tvsol/chunklist_w1234817956.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Religiosos", Canção Nova 1
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?Arlen
 
