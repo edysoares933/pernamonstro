@@ -81,7 +81,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VITORIA - RECORD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAL ABERTO", TV VITORIA - RECORD
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE TV HD
@@ -1257,7 +1257,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RECORD ES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAL ABERTO", RECORD ES
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Futura PR
